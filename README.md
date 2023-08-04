@@ -1,4 +1,4 @@
-# Códigos da aula de ltp sobre GiHhub
+# Códigos da aula de ltp sobre GitHub
 Bem vindos ao repositório de LTP e vai corinthians!
 ```java
 System.out.println("Java é incrível - disse o estudante mecânica");
